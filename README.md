@@ -2,7 +2,9 @@
 It's a plugin to wrap the children text elements of an element with a custom tag and custom class on finish
 
 ## Usage
-```$(selector).wrapChildren(options)```
+```
+$(selector).wrapChildren(options)
+```
 
 ## Options
 
